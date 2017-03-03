@@ -1,0 +1,78 @@
+.text-ask {
+
+	margin-top: 20%;
+}
+
+.text-ask2 {
+
+	margin-top: 5%;
+}
+
+form {
+
+	margin-top: 70px;
+}
+
+
+
+.main {
+	margin-left: 10%;
+	margin-right: 10%;
+	background: white;
+	
+	
+}
+
+.logo, .enc {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 100px;
+}
+
+h1 {
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="password"],
+form textarea {
+	border:4px solid #424242;
+	border-radius: 5px;
+	padding: 16px;
+	width: 100%;
+	display: block;
+	margin-bottom: 20px;
+	font-family: 'Sansita', sans-serif;
+	font-size: 20px;
+	color: #424242;
+}
+
+form input[type="text"]:focus,
+form input[type="email"]:focus,
+form input[type="password"]:focus,
+
+
+}
+
+li {
+
+	list-style: none;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 10px;
+
+}
+
+ul {
+
+	padding-left: 0px;
+	margin-top: 30px;
+}
+
+.lopo {
+	margin-top: 15px;
+	border-left: 2px solid #000;
+	font-size: 25px;
+	list-style: none;
+
+
+}
